@@ -1,6 +1,6 @@
 ## Hello there!👋 I'm Amanat😄
 
-### I'm **JavaScript** Developer ⚡
+### ⚡ I'm **JavaScript** Developer 
 
 - 🔭 *Currently*: Frontend Developer at HeroLeague. [Link](https://heroleageu.ru)
 - 🔭 *Previously*: Trainee Full Stack JS Developer at Elbrus Bootcamp. [Link](https://elbrusboot.camp/)
