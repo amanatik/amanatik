@@ -2,7 +2,8 @@
 
 ### ⚡ I'm **JavaScript** Developer 
 
-- 🔭 *Currently*: Frontend Developer at HeroLeague. [Link](https://heroleageu.ru)
+- 🔭 *Currently*: Frontend Web Developer at Mindbox. [Link](https://mindbox.cloud)
+- 🔭 *Previously*: Frontend Developer at HeroLeague. [Link](https://heroleageu.ru)
 - 🔭 *Previously*: Trainee Full Stack JS Developer at Elbrus Bootcamp. [Link](https://elbrusboot.camp/)
 
 ### 🌱 Education
@@ -12,8 +13,11 @@
 
 ### 🤔 Stack
 
+- TypeScript
 - React
 - Redux
+- GQL Apollo
+- Jest
 - NodeJS
 
 ### 💬 Get in touch
